@@ -17,7 +17,7 @@ This lab showcases practical finance automation work built around real finance p
 - audit evidence scattered across files and systems
 - manual reporting cycles that repeat every month
 
-## Featured Projects
+## Featured repositories
 
 ### 1. Finance ETL Pipeline — Monthly Close Dataset
 
@@ -25,51 +25,58 @@ A production-grade finance data pipeline that automates monthly close reporting 
 
 [View project summary](./01-finance-etl-pipeline)
 
-**Live project repository:**  
+**Live repository:**  
 https://github.com/Chezhira/Finance-ETL-Pipeline-Monthly-Close-Dataset
 
 ---
 
-### 2. Odoo 19 MCP Server
+### 2. Finance AI Pack
+
+An Odoo 18-first finance automation pack for month-end automation, VAT pack support, bank reconciliation, ledger checks, exception outputs, and close-control workflows.
+
+[View project summary](./02-finance-ai-pack)
+
+**Live repository:**  
+https://github.com/Chezhira/finance-ai-pack
+
+---
+
+### 3. FinOps MCP Server
+
+A finance operations MCP server for connecting finance workflows, ERP data, reporting controls, reconciliations, and AI-assisted analysis through a structured tool layer.
+
+[View project summary](./03-finops-mcp-server)
+
+**Live repository:**  
+https://github.com/Chezhira/finops-mcp-server
+
+---
+
+### 4. Odoo 19 MCP Server
 
 An Odoo-focused technical project exploring how finance systems can interact with AI tooling and external workflows through a structured MCP/server approach.
 
-[View project summary](./02-odoo19-mcp-server)
+[View project summary](./04-odoo19-mcp-server)
 
-**Live project repository:**  
+**Live repository:**  
 https://github.com/Chezhira/odoo19-mcp-server
 
 ---
 
-### 3. Intercompany Reconciliation Engine
+## Finance AI Pack use cases
 
-A finance automation concept for matching intercompany balances, internal transfers, recharges, loans, payroll recharges, and GL mismatches across multi-entity groups.
+Some finance automation themes are better presented as **use cases inside Finance AI Pack**, not as separate standalone repositories.
 
-[View project summary](./03-intercompany-reconciliation-engine)
+[View Finance AI Pack use cases](./05-finance-ai-pack-use-cases)
 
----
+Use cases include:
 
-### 4. VAT / EFD / TRA Control Monitor
-
-A control-monitoring concept for reconciling ERP revenue, VAT treatment, EFD receipts, tax reporting exceptions, and audit exposure in Tanzania-focused finance operations.
-
-[View project summary](./04-vat-efd-tra-control-monitor)
-
----
-
-### 5. Audit Evidence Pack Generator
-
-A structured approach for producing audit-ready packs with reconciliations, exception reports, control checks, sign-off evidence, and close support schedules.
-
-[View project summary](./05-audit-evidence-pack-generator)
-
----
-
-### 6. Finance Dashboards & KPI Pack
-
-A reporting and analytics concept for turning finance and operations data into decision-ready dashboards, KPI trees, board packs, and monthly performance commentary.
-
-[View project summary](./06-finance-dashboards-kpi-pack)
+- VAT / EFD / TRA Control Monitor
+- Intercompany / Ledger Reconciliation
+- Audit Evidence Pack Generator
+- Finance Dashboards & KPI Pack
+- Bank Reconciliation
+- Month-End Gating
 
 ## What this demonstrates
 
@@ -102,25 +109,3 @@ https://www.chezsolutions.co.uk
 ## GitHub profile
 
 https://github.com/Chezhira
-
----
-
-### 7. FinOps MCP Server
-
-A finance operations MCP server concept for connecting finance workflows, ERP data, reporting controls, reconciliations, and AI-assisted analysis through a structured tool layer.
-
-[View project summary](./07-finops-mcp-server)
-
-**Live project repository:**  
-https://github.com/Chezhira/finops-mcp-server
-
----
-
-### 8. Finance AI Pack
-
-A practical finance automation pack for month-end close, bank reconciliation, VAT checks, reporting controls, and finance workflow automation.
-
-[View project summary](./08-finance-ai-pack)
-
-**Live project repository:**  
-https://github.com/Chezhira/finance-ai-pack
