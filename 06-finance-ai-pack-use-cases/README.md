@@ -49,3 +49,4 @@ This connects bank reconciliation, VAT checks, ledger checks, and reporting read
 These use cases are not separate standalone repos yet. They are better presented as practical applications of Finance AI Pack.
 
 This keeps the portfolio honest, cleaner, and easier for reviewers to understand.
+

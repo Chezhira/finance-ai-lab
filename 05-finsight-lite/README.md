@@ -1,4 +1,4 @@
-﻿# 06 - FinSight Lite: Finance Intelligence Dashboard
+﻿# 05 - FinSight Lite: Finance Intelligence Dashboard
 
 FinSight Lite is a control-first finance intelligence dashboard that turns raw ERP/accounting exports into validated finance marts, anomaly detection, KPI dashboards, and CFO-style commentary.
 
@@ -50,3 +50,4 @@ https://github.com/Chezhira/finsight-lite
 FinSight Lite extends the Finance AI Lab beyond workflow automation into finance analytics engineering.
 
 The MCP and agent projects demonstrate controlled finance workflows, approvals, and operational automation. FinSight Lite demonstrates the analytics layer: validated finance data, governed transformation, anomaly detection, dashboards, and CFO-style commentary.
+

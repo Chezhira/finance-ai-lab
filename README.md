@@ -67,7 +67,7 @@ https://github.com/Chezhira/odoo19-mcp-server
 
 A control-first finance intelligence dashboard that turns raw ERP/accounting exports into validated finance marts, anomaly detection, KPI dashboards, and CFO-style commentary.
 
-[View project summary](./06-finsight-lite)
+[View project summary](./05-finsight-lite)
 
 **Live repository:**  
 https://github.com/Chezhira/finsight-lite
@@ -78,7 +78,7 @@ https://github.com/Chezhira/finsight-lite
 
 Some finance automation themes are better presented as **use cases inside Finance AI Pack**, not as separate standalone repositories.
 
-[View Finance AI Pack use cases](./05-finance-ai-pack-use-cases)
+[View Finance AI Pack use cases](./06-finance-ai-pack-use-cases)
 
 Use cases include:
 
@@ -120,6 +120,7 @@ https://www.chezsolutions.co.uk
 ## GitHub profile
 
 https://github.com/Chezhira
+
 
 
 
