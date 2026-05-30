@@ -69,8 +69,9 @@ A control-first finance intelligence dashboard that turns raw ERP/accounting exp
 
 [View project summary](./06-finsight-lite)
 
-**Live repository:**
+**Live repository:**  
 https://github.com/Chezhira/finsight-lite
+
 ---
 
 ## Finance AI Pack use cases
@@ -119,5 +120,6 @@ https://www.chezsolutions.co.uk
 ## GitHub profile
 
 https://github.com/Chezhira
+
 
 
